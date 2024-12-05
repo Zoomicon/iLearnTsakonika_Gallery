@@ -1,0 +1,28 @@
+object ImageStoryItem: TImageStoryItem
+  Align = Center
+  Locked = True
+  Size.Width = 1920.000000000000000000
+  Size.Height = 1016.000000000000000000
+  Size.PlatformDefault = False
+  TabStop = False
+  Home = True
+  BackgroundColor = x6E000000
+  object ImageStoryItem2: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 204.000061035156300000
+    Position.Y = 146.999938964843800000
+    Size.Width = 1461.000000000000000000
+    Size.Height = 581.000000000000000000
+    Size.PlatformDefault = False
+    TabStop = False
+    Active = True
+    BackgroundColor = x4B36CDE0
+    AutoSize = False
+  end
+  object TImage
+    MultiResBitmap = <
+      item
+      end>
+  end
+end

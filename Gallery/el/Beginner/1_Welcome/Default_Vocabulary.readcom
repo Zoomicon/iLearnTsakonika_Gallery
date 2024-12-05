@@ -20,4 +20,9 @@ object ImageStoryItem: TImageStoryItem
     BackgroundColor = x4B36C4E0
     AutoSize = False
   end
+  object TImage
+    MultiResBitmap = <
+      item
+      end>
+  end
 end

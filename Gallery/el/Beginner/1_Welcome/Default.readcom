@@ -19,7 +19,7 @@ object ImageStoryItem: TImageStoryItem
     BackgroundColor = xA8B51616
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome_Dialogue.readcom'
+      'ry/main/Gallery/el/Beginner/1_Welcome/Welcome_Dialogue.readcom'
     AutoSize = False
   end
   object ImageStoryItem3: TImageStoryItem
@@ -32,17 +32,15 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 810.846130371093800000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     BackgroundColor = x450F8E0F
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome_Grammar.readcom'
+      'ry/main/Gallery/el/Beginner/1_Welcome/Welcome_Grammar.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
         item
         end>
-      Enabled = False
     end
   end
   object ImageStoryItem4: TImageStoryItem
@@ -58,8 +56,7 @@ object ImageStoryItem: TImageStoryItem
     BackgroundColor = x6907BDC8
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome_Vocabulary.readc' +
-      'om'
+      'ry/main/Gallery/el/Beginner/1_Welcome/Welcome_Vocabulary.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <

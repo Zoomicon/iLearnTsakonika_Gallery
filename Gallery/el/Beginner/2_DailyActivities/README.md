@@ -1,4 +1,4 @@
 # iLearnTsakonika app: Content
 ## Language: Greek
 ### Level: Beginner
-#### Chapter: Daily Activities
+#### Chapter: 2. Daily Activities

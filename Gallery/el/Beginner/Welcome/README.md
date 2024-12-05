@@ -1,4 +1,4 @@
-# Content for iLearnTsakonika app
-## Greek language
-### Beginner level
-#### Welcome chapter
+# iLearnTsakonika app: Content
+## Language: Greek
+### Level: Beginner
+#### Chapter: Welcome

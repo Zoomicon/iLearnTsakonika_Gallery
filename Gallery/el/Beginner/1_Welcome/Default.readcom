@@ -1,0 +1,75 @@
+object ImageStoryItem: TImageStoryItem
+  Align = Center
+  Locked = True
+  Size.Width = 1920.000000000000000000
+  Size.Height = 1016.000000000000000000
+  Size.PlatformDefault = False
+  TabStop = False
+  Home = True
+  object ImageStoryItem: TImageStoryItem
+    Align = Scale
+    Cursor = crHandPoint
+    Locked = True
+    Position.X = 132.000000000000000000
+    Position.Y = 102.000000000000000000
+    Size.Width = 510.846160888671900000
+    Size.Height = 810.846130371093800000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xA8B51616
+    UrlAction = 
+      'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
+      'ry/refs/heads/main/Gallery/el/Beginner/1_Welcome/Welcome_Dialogu' +
+      'e.readcom'
+    AutoSize = False
+  end
+  object ImageStoryItem: TImageStoryItem
+    Align = Scale
+    Cursor = crHandPoint
+    Locked = True
+    Position.X = 1288.265502929688000000
+    Position.Y = 103.924255371093800000
+    Size.Width = 510.846160888671900000
+    Size.Height = 810.846130371093800000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = x450F8E0F
+    UrlAction = 
+      'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
+      'ry/refs/heads/main/Gallery/el/Beginner/1_Welcome/Welcome_Grammar' +
+      '.readcom'
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+  end
+  object ImageStoryItem: TImageStoryItem
+    Align = Scale
+    Cursor = crHandPoint
+    Locked = True
+    Position.X = 704.576904296875000000
+    Position.Y = 102.576934814453100000
+    Size.Width = 510.846160888671900000
+    Size.Height = 810.846130371093800000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = x6907BDC8
+    UrlAction = 
+      'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
+      'ry/refs/heads/main/Gallery/el/Beginner/1_Welcome/Welcome_Vocabul' +
+      'ary.readcom'
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+  end
+  object TImage
+    MultiResBitmap = <
+      item
+      end>
+  end
+end

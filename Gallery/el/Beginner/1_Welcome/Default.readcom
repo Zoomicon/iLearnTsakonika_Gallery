@@ -6,7 +6,7 @@ object ImageStoryItem: TImageStoryItem
   Size.PlatformDefault = False
   TabStop = False
   Home = True
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem2: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -19,11 +19,10 @@ object ImageStoryItem: TImageStoryItem
     BackgroundColor = xA8B51616
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-      'ry/refs/heads/main/Gallery/el/Beginner/1_Welcome/Welcome_Dialogu' +
-      'e.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome_Dialogue.readcom'
     AutoSize = False
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem3: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -33,19 +32,20 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 810.846130371093800000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     BackgroundColor = x450F8E0F
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-      'ry/refs/heads/main/Gallery/el/Beginner/1_Welcome/Welcome_Grammar' +
-      '.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome_Grammar.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
         item
         end>
+      Enabled = False
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem4: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -58,8 +58,8 @@ object ImageStoryItem: TImageStoryItem
     BackgroundColor = x6907BDC8
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-      'ry/refs/heads/main/Gallery/el/Beginner/1_Welcome/Welcome_Vocabul' +
-      'ary.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome_Vocabulary.readc' +
+      'om'
     AutoSize = False
     object TImage
       MultiResBitmap = <

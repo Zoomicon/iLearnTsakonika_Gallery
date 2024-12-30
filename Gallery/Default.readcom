@@ -7403,6 +7403,7 @@ object PanelStoryItem222: TBitmapImageStoryItem
   end
   object ImageStoryItem2: TImageStoryItem
     Align = Scale
+    Cursor = crHandPoint
     Locked = True
     Position.X = 236.21104431152340000
     Position.Y = 1130.27856445312500000
@@ -7410,9 +7411,13 @@ object PanelStoryItem222: TBitmapImageStoryItem
     Size.Height = 754.82348632812510000
     Size.PlatformDefault = False
     TabStop = False
+    UrlAction = 
+      'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
+      'ry/main/Gallery/el/el.readcom'
     AutoSize = False
     object FlagGreece16990989203: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 67.61328125000000000
       Position.Y = 100.50775146484370000
@@ -7420,6 +7425,9 @@ object PanelStoryItem222: TBitmapImageStoryItem
       Size.Height = 419.16467285156250000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
+        'ry/main/Gallery/el/el.readcom'
       SVGText = 
         '<?xml version="1.0" encoding="UTF-8"?>'#13#10'<svg xmlns="http://www.w' +
         '3.org/2000/svg" width="600" height="400" viewBox="0 0 27 18">'#13#10'<' +
@@ -7430,6 +7438,7 @@ object PanelStoryItem222: TBitmapImageStoryItem
     end
     object TextStoryItem22: TTextStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 64.81116485595703000
       Position.Y = 607.25360107421880000
@@ -7438,6 +7447,9 @@ object PanelStoryItem222: TBitmapImageStoryItem
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = xFFC2E9FB
+      UrlAction = 
+        'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
+        'ry/main/Gallery/el/el.readcom'
       Text = #917#955#955#951#957#953#954#940
       Font.Size = 66.00000000000000000
     end
@@ -7481,11 +7493,12 @@ object PanelStoryItem222: TBitmapImageStoryItem
       Size.Height = 92.74816894531250000
       Size.PlatformDefault = False
       TabStop = False
+      ForegroundColor = x47000000
       BackgroundColor = xFFFDE2DE
       Text = 'English'
       Font.Size = 80.00000000000000000
     end
-    object TextStoryItem2: TTextStoryItem
+    object TextStoryItem23: TTextStoryItem
       Align = Scale
       Locked = True
       Position.X = 6.22830152511596700

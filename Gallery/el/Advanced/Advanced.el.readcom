@@ -2,8 +2,8 @@ object PanelStoryItem222: TBitmapImageStoryItem
   Align = Center
   ClipChildren = True
   Locked = True
-  Size.Width = 2073.60034179687500000
-  Size.Height = 2073.60034179687500000
+  Size.Width = 2073.600341796875000000
+  Size.Height = 2073.600341796875000000
   Size.PlatformDefault = False
   TabStop = False
   TabOrder = 32767
@@ -12,43 +12,47 @@ object PanelStoryItem222: TBitmapImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 111.43713378906250000
-    Position.Y = 92.30381774902344000
-    Size.Width = 1835.39306640625000000
-    Size.Height = 400.63821411132810000
+    Position.X = 111.437133789062500000
+    Position.Y = 92.303817749023440000
+    Size.Width = 1835.393066406250000000
+    Size.Height = 400.638214111328100000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-      'ry/main/Gallery/el/Advanced/Advanced.el.readcom'
+      'ry/main/Gallery/el/Advanced/1_Welcome/Welcome.el.readcom'
     AutoSize = False
     object TextStoryItem22: TTextStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 730.97320556640630000
-      Position.Y = 168.84564208984370000
-      Size.Width = 967.75054931640630000
-      Size.Height = 95.62509155273437000
+      Position.X = 730.973205566406300000
+      Position.Y = 168.845642089843800000
+      Size.Width = 967.750549316406300000
+      Size.Height = 95.625091552734380000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = x00C2E9FB
       UrlAction = 
         'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-        'ry/main/Gallery/el/Advanced/Advanced.el.readcom'
+        'ry/main/Gallery/el/Advanced/1_Welcome/Welcome.el.readcom'
       Text = '1. '#922#945#955#969#963#972#961#953#963#956#945
-      Font.Size = 66.00000000000000000
+      Font.Size = 66.000000000000000000
       HorzAlign = Leading
     end
     object _thumb1146220726: TImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
-      Position.X = 14.97559833526612000
-      Position.Y = 36.80788040161133000
-      Size.Width = 503.96154785156250000
-      Size.Height = 322.23898315429690000
+      Position.X = 14.975598335266110000
+      Position.Y = 36.807880401611330000
+      Size.Width = 503.961547851562500000
+      Size.Height = 322.238983154296900000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
+        'ry/main/Gallery/el/Advanced/1_Welcome/Welcome.el.readcom'
       Image.MultiResBitmap = <
         item
           Width = 150
@@ -1430,70 +1434,69 @@ object PanelStoryItem222: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 503.96154785156250000
-      Image.Size.Height = 322.23898315429690000
+      Image.Size.Width = 503.961547851562500000
+      Image.Size.Height = 322.238983154296900000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
     end
   end
-  object ImageStoryItem2: TImageStoryItem
+  object ImageStoryItem22: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 111.86315917968750000
-    Position.Y = 568.58203125000000000
-    Size.Width = 1835.39306640625000000
-    Size.Height = 400.63821411132810000
+    Position.X = 111.863159179687500000
+    Position.Y = 568.582031250000000000
+    Size.Width = 1835.393066406250000000
+    Size.Height = 400.638214111328100000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
       'ry/main/Gallery/el/Advanced/Advanced.el.readcom'
     AutoSize = False
-    object TextStoryItem22: TTextStoryItem
+    object TextStoryItem222: TTextStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 730.97320556640630000
-      Position.Y = 168.84564208984370000
-      Size.Width = 967.75054931640630000
-      Size.Height = 95.62509155273437000
+      Position.X = 730.973205566406300000
+      Position.Y = 168.845642089843800000
+      Size.Width = 967.750549316406300000
+      Size.Height = 95.625091552734380000
       Size.PlatformDefault = False
       TabStop = False
-      Active = True
       ForegroundColor = x3E000000
       BackgroundColor = x00C2E9FB
       UrlAction = 
         'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
         'ry/main/Gallery/el/Advanced/Advanced.el.readcom'
       Text = '2. '#922#945#952#951#956#949#961#953#957#941#962' '#948#961#945#963#964#951#961#953#972#964#951#964#949#962
-      Font.Size = 66.00000000000000000
+      Font.Size = 66.000000000000000000
       HorzAlign = Leading
     end
   end
-  object ImageStoryItem2: TImageStoryItem
+  object ImageStoryItem23: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 111.86315917968750000
-    Position.Y = 1039.21557617187500000
-    Size.Width = 1835.39306640625000000
-    Size.Height = 400.63821411132810000
+    Position.X = 111.863159179687500000
+    Position.Y = 1039.215576171875000000
+    Size.Width = 1835.393066406250000000
+    Size.Height = 400.638214111328100000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
       'ry/main/Gallery/el/Advanced/Advanced.el.readcom'
     AutoSize = False
-    object TextStoryItem22: TTextStoryItem
+    object TextStoryItem223: TTextStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 730.97320556640630000
-      Position.Y = 168.84564208984370000
-      Size.Width = 967.75054931640630000
-      Size.Height = 95.62509155273437000
+      Position.X = 730.973205566406300000
+      Position.Y = 168.845642089843800000
+      Size.Width = 967.750549316406300000
+      Size.Height = 95.625091552734380000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = x2F000000
@@ -1502,32 +1505,32 @@ object PanelStoryItem222: TBitmapImageStoryItem
         'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
         'ry/main/Gallery/el/Advanced/Advanced.el.readcom'
       Text = '3. '#915#949#965#963#953#947#957#969#963#943#945' - '#916#953#945#964#961#959#966#942
-      Font.Size = 66.00000000000000000
+      Font.Size = 66.000000000000000000
       HorzAlign = Leading
     end
   end
-  object ImageStoryItem2: TImageStoryItem
+  object ImageStoryItem24: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 115.48327636718750000
-    Position.Y = 1526.14001464843700000
-    Size.Width = 1835.39306640625000000
-    Size.Height = 400.63821411132810000
+    Position.X = 115.483276367187500000
+    Position.Y = 1526.140014648438000000
+    Size.Width = 1835.393066406250000000
+    Size.Height = 400.638214111328100000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
       'ry/main/Gallery/el/Advanced/Advanced.el.readcom'
     AutoSize = False
-    object TextStoryItem22: TTextStoryItem
+    object TextStoryItem224: TTextStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 730.97320556640630000
-      Position.Y = 168.84564208984370000
-      Size.Width = 967.75054931640630000
-      Size.Height = 95.62509155273437000
+      Position.X = 730.973205566406300000
+      Position.Y = 168.845642089843800000
+      Size.Width = 967.750549316406300000
+      Size.Height = 95.625091552734380000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = x3E000000
@@ -1536,7 +1539,7 @@ object PanelStoryItem222: TBitmapImageStoryItem
         'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
         'ry/main/Gallery/el/Advanced/Advanced.el.readcom'
       Text = '4. '#931#964#951#957' '#945#947#959#961#940
-      Font.Size = 66.00000000000000000
+      Font.Size = 66.000000000000000000
       HorzAlign = Leading
     end
   end

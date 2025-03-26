@@ -39726,18 +39726,19 @@ object ImageStoryItem: TImageStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 428.418548583984400000
-      Position.Y = 313.794128417968800000
-      Size.Width = 197.458038330078100000
-      Size.Height = 36.722564697265630000
+      Position.X = 457.397583007812500000
+      Position.Y = 271.960968017578100000
+      Size.Width = 55.576812744140630000
+      Size.Height = 43.998794555664060000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFFFBF7F7
       BackgroundColor = xDE19AE85
       UrlAction = 
         'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
-        'ry/main/Gallery/el/Beginner/1_Welcome/Welcome.el.readcom'
-      Text = #917#960#953#963#964#961#959#966#942
+        'ry/main/Gallery/el/Beginner/1_Welcome/Welcome.' +
+        'el.readcom'
+      Text = #55357#57002
       Font.Size = 32.000000000000000000
       Font.StyleExt = {00070000000000000004000000}
     end

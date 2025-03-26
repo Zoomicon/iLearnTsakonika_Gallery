@@ -13,12 +13,13 @@ object ImageStoryItem: TImageStoryItem
   object Item1365104386: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 107.136024475097700000
-    Position.Y = 55.296005249023440000
+    Position.X = 958.987854003906300000
+    Position.Y = 63.093273162841800000
     Size.Width = 654.646240234375000000
     Size.Height = 412.425354003906300000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     Home = True
     StoryPoint = True
     Image.MultiResBitmap = <
@@ -6311,17 +6312,28 @@ object ImageStoryItem: TImageStoryItem
           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA}
       end
     end
+    object TextStoryItem: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 212.612594604492200000
+      Position.Y = 324.172271728515600000
+      Size.Width = 270.355163574218800000
+      Size.Height = 61.702667236328130000
+      Size.PlatformDefault = False
+      TabStop = False
+      Text = #13#10#927#953' '#945#961#953#952#956#959#943
+      Font.StyleExt = {00070000000000000004000000}
+    end
   end
   object Item13651043862: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 857.088195800781300000
-    Position.Y = 63.936004638671880000
+    Position.X = 1806.405761718750000000
+    Position.Y = 60.037391662597660000
     Size.Width = 654.646301269531300000
     Size.Height = 412.425384521484400000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     StoryPoint = True
     Image.MultiResBitmap = <
       item
@@ -9014,8 +9026,8 @@ object ImageStoryItem: TImageStoryItem
   object Item1305411857: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 108.187896728515600000
-    Position.Y = 521.407958984375000000
+    Position.X = 965.887573242187500000
+    Position.Y = 544.799682617187500000
     Size.Width = 651.078186035156300000
     Size.Height = 410.060058593750000000
     Size.PlatformDefault = False
@@ -14327,8 +14339,8 @@ object ImageStoryItem: TImageStoryItem
   object Item136510438622: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 857.088195800781300000
-    Position.Y = 520.076293945312500000
+    Position.X = 1808.355102539063000000
+    Position.Y = 537.620056152343800000
     Size.Width = 654.646423339843800000
     Size.Height = 412.425354003906300000
     Size.PlatformDefault = False
@@ -17475,8 +17487,8 @@ object ImageStoryItem: TImageStoryItem
   object Item1512590681: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 115.554626464843800000
-    Position.Y = 980.257080078125000000
+    Position.X = 973.254516601562500000
+    Position.Y = 1036.787109375000000000
     Size.Width = 637.120483398437500000
     Size.Height = 401.075256347656300000
     Size.PlatformDefault = False
@@ -25498,8 +25510,8 @@ object ImageStoryItem: TImageStoryItem
   object Item136510438623: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 853.189514160156300000
-    Position.Y = 982.064514160156300000
+    Position.X = 1812.253906250000000000
+    Position.Y = 1028.847900390625000000
     Size.Width = 654.646423339843800000
     Size.Height = 412.425354003906300000
     Size.PlatformDefault = False
@@ -29210,8 +29222,8 @@ object ImageStoryItem: TImageStoryItem
   object Item1233136836: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 127.661689758300800000
-    Position.Y = 1440.796752929688000000
+    Position.X = 969.766845703125000000
+    Position.Y = 1524.617431640625000000
     Size.Width = 640.607910156250000000
     Size.Height = 403.175781250000000000
     Size.PlatformDefault = False
@@ -35756,8 +35768,8 @@ object ImageStoryItem: TImageStoryItem
   object Item136510438624: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 855.138427734375000000
-    Position.Y = 1438.204956054688000000
+    Position.X = 1810.304199218750000000
+    Position.Y = 1520.076293945313000000
     Size.Width = 654.646423339843800000
     Size.Height = 412.425354003906300000
     Size.PlatformDefault = False
@@ -39676,6 +39688,56 @@ object ImageStoryItem: TImageStoryItem
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
+    end
+  end
+  object ImageStoryItem: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 110.012077331543000000
+    Position.Y = 571.455993652343800000
+    Size.Width = 662.156188964843800000
+    Size.Height = 377.555847167968800000
+    Size.PlatformDefault = False
+    TabStop = False
+    StoryPoint = True
+    ForegroundColor = x00D77171
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+    object TextStoryItem: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 176.818206787109400000
+      Position.Y = 175.294021606445300000
+      Size.Width = 281.981140136718800000
+      Size.Height = 26.674633026123050000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF854608
+      BackgroundColor = x8CE9CCB9
+      Text = #931#965#947#967#945#961#951#964#942#961#953#945
+      Font.StyleExt = {00070000000000000004000000}
+    end
+    object TextStoryItem2: TTextStoryItem
+      Align = Scale
+      Cursor = crHandPoint
+      Locked = True
+      Position.X = 541.640808105468800000
+      Position.Y = 325.747711181640600000
+      Size.Width = 84.235412597656250000
+      Size.Height = 24.768859863281250000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFFFBF7F7
+      BackgroundColor = xDE19AE85
+      UrlAction = 
+        'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
+        'ry/main/Gallery/el/Beginner/1_Welcome/Welcome.el.readcom'
+      Text = #917#960#953#963#964#961#959#966#942
+      Font.StyleExt = {00070000000000000004000000}
     end
   end
 end

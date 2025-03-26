@@ -19,7 +19,6 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 412.425354003906300000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     Home = True
     StoryPoint = True
     Image.MultiResBitmap = <
@@ -6312,7 +6311,7 @@ object ImageStoryItem: TImageStoryItem
           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA}
       end
     end
-    object TextStoryItem: TTextStoryItem
+    object TextStoryItem2: TTextStoryItem
       Align = Scale
       Locked = True
       Position.X = 212.612594604492200000
@@ -6322,6 +6321,7 @@ object ImageStoryItem: TImageStoryItem
       Size.PlatformDefault = False
       TabStop = False
       Text = #13#10#927#953' '#945#961#953#952#956#959#943
+      Font.Size = 19.000000000000000000
       Font.StyleExt = {00070000000000000004000000}
     end
   end
@@ -39690,7 +39690,7 @@ object ImageStoryItem: TImageStoryItem
       AutoSize = False
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem16: TImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 110.012077331543000000
@@ -39707,28 +39707,29 @@ object ImageStoryItem: TImageStoryItem
         item
         end>
     end
-    object TextStoryItem: TTextStoryItem
+    object TextStoryItem3: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 176.818206787109400000
-      Position.Y = 175.294021606445300000
-      Size.Width = 281.981140136718800000
-      Size.Height = 26.674633026123050000
+      Position.X = 159.177947998046900000
+      Position.Y = 109.980232238769500000
+      Size.Width = 308.741485595703100000
+      Size.Height = 67.790367126464840000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF854608
       BackgroundColor = x8CE9CCB9
       Text = #931#965#947#967#945#961#951#964#942#961#953#945
+      Font.Size = 32.000000000000000000
       Font.StyleExt = {00070000000000000004000000}
     end
-    object TextStoryItem2: TTextStoryItem
+    object TextStoryItem22: TTextStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 541.640808105468800000
-      Position.Y = 325.747711181640600000
-      Size.Width = 84.235412597656250000
-      Size.Height = 24.768859863281250000
+      Position.X = 428.418548583984400000
+      Position.Y = 313.794128417968800000
+      Size.Width = 197.458038330078100000
+      Size.Height = 36.722564697265630000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFFFBF7F7
@@ -39737,6 +39738,7 @@ object ImageStoryItem: TImageStoryItem
         'https://raw.githubusercontent.com/Zoomicon/iLearnTsakonika_Galle' +
         'ry/main/Gallery/el/Beginner/1_Welcome/Welcome.el.readcom'
       Text = #917#960#953#963#964#961#959#966#942
+      Font.Size = 32.000000000000000000
       Font.StyleExt = {00070000000000000004000000}
     end
   end

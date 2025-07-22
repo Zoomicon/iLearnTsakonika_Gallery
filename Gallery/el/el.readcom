@@ -17847,8 +17847,8 @@ object ImageStoryItem: TImageStoryItem
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
-      'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/el/Beginner/Beginner.el.readcom'
+      'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
+      'ry/master/Gallery/el/Beginner/Beginner.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem22: TImageStoryItem
@@ -17862,8 +17862,8 @@ object ImageStoryItem: TImageStoryItem
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
-      'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/el/Medium/Medium.el.readcom'
+      'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
+      'ry/master/Gallery/el/Medium/Medium.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem3: TImageStoryItem
@@ -17877,8 +17877,8 @@ object ImageStoryItem: TImageStoryItem
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
-      'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/el/Advanced/Advanced.el.readcom'
+      'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
+      'ry/master/Gallery/el/Advanced/Advanced.el.readcom'
     AutoSize = False
   end
 end

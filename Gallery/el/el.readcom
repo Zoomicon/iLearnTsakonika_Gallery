@@ -1,8 +1,8 @@
 object ImageStoryItem: TImageStoryItem
   Align = Center
   Locked = True
-  Size.Width = 2764.800292968750000000
-  Size.Height = 1650.240112304688000000
+  Size.Width = 2764.80029296875000000
+  Size.Height = 1650.24011230468700000
   Size.PlatformDefault = False
   TabStop = False
   Home = True
@@ -17840,25 +17840,25 @@ object ImageStoryItem: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 445.364135742187500000
-    Position.Y = 234.090393066406300000
-    Size.Width = 1687.086059570313000000
-    Size.Height = 399.006652832031300000
+    Position.X = 445.36413574218750000
+    Position.Y = 234.09039306640620000
+    Size.Width = 1687.08605957031300000
+    Size.Height = 399.00665283203120000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/Begginer/Beginner.el.readcom'
+      'r/Gallery/Beginner/Beginner.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem22: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 440.397247314453100000
-    Position.Y = 672.832092285156300000
-    Size.Width = 1692.052978515625000000
-    Size.Height = 382.450378417968800000
+    Position.X = 440.39724731445310000
+    Position.Y = 672.83209228515620000
+    Size.Width = 1692.05297851562500000
+    Size.Height = 382.45037841796880000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
@@ -17870,10 +17870,10 @@ object ImageStoryItem: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 443.708526611328100000
-    Position.Y = 1109.918212890625000000
-    Size.Width = 1690.397460937500000000
-    Size.Height = 369.205322265625000000
+    Position.X = 443.70852661132810000
+    Position.Y = 1109.91821289062500000
+    Size.Width = 1690.39746093750000000
+    Size.Height = 369.20532226562500000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 

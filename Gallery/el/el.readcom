@@ -17848,7 +17848,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/Beginner/Beginner.el.readcom'
+      'r/Gallery/el/Beginner/Beginner.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem22: TImageStoryItem
@@ -17863,7 +17863,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/Medium/Medium.el.readcom'
+      'r/Gallery/el/Medium/Medium.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem3: TImageStoryItem
@@ -17878,7 +17878,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/Advanced/Advanced.el.readcom'
+      'r/Gallery/el/Advanced/Advanced.el.readcom'
     AutoSize = False
   end
 end

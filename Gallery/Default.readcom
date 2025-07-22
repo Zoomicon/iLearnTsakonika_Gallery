@@ -41511,8 +41511,8 @@ object ImageStoryItem: TImageStoryItem
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
-      'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/el/el.readcom'
+      'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
+      'ry/master/Gallery/el/el.readcom'
     AutoSize = False
   end
 end

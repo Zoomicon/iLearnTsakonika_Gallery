@@ -26515,7 +26515,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Begginer/1_Welcome/Welcome.el.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem22: TImageStoryItem
@@ -26530,7 +26530,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Begginer/2_DailyActivities/DailyActivities.' +
+      'ry/master/Gallery/el/Beginner/2_DailyActivities/DailyActivities.' +
       'el.readcom'
     AutoSize = False
   end
@@ -26546,7 +26546,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Begginer/3_Food/Food.el.readcom'
+      'ry/master/Gallery/el/Beginner/3_Food/Food.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem4: TImageStoryItem
@@ -26561,7 +26561,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Begginer/4_Shopping/Shopping.el.readcom'
+      'ry/master/Gallery/el/Beginner/4_Shopping/Shopping.el.readcom'
     AutoSize = False
   end
 end

@@ -11274,7 +11274,7 @@ object ImageStoryItem: TImageStoryItem
       'ry/master/Gallery/el/Beginner/Beginner.el.readcom'
     AutoSize = False
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem2: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -11290,7 +11290,7 @@ object ImageStoryItem: TImageStoryItem
       'dcom'
     AutoSize = False
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem3: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -11302,8 +11302,8 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers.el.re' +
-      'adcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers1-4.el' +
+      '.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
@@ -11311,7 +11311,7 @@ object ImageStoryItem: TImageStoryItem
         end>
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem5: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -11332,7 +11332,7 @@ object ImageStoryItem: TImageStoryItem
         end>
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem6: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -11353,7 +11353,7 @@ object ImageStoryItem: TImageStoryItem
         end>
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem7: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -11374,7 +11374,7 @@ object ImageStoryItem: TImageStoryItem
         end>
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem8: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True

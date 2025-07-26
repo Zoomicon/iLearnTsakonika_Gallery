@@ -11286,8 +11286,8 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors.el.rea' +
-      'dcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Colors' +
+      '.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem3: TImageStoryItem
@@ -11302,8 +11302,8 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers1-4.el' +
-      '.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Numbe' +
+      'rs1-4.el.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
@@ -11323,8 +11323,8 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family.el.rea' +
-      'dcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/Family' +
+      '.el.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
@@ -11344,8 +11344,8 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions.e' +
-      'l.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/E' +
+      'xpressions.el.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
@@ -11365,8 +11365,8 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places_Villag' +
-      'e.el.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places/Places' +
+      '_Village.el.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
@@ -11384,15 +11384,17 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 630.794677734375000000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Comics.el.rea' +
-      'dcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/DialogueReadi' +
+      'ng/DialogueReading.el.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
         item
         end>
+      Enabled = False
     end
   end
 end

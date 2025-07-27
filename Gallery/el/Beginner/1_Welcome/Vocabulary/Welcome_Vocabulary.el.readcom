@@ -11324,7 +11324,7 @@ object ImageStoryItem: TImageStoryItem
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
       'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/Family' +
-      '.el.readcom'
+      'Tree.el.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
@@ -11384,7 +11384,6 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 630.794677734375000000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
       'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/DialogueReadi' +
@@ -11394,7 +11393,6 @@ object ImageStoryItem: TImageStoryItem
       MultiResBitmap = <
         item
         end>
-      Enabled = False
     end
   end
 end

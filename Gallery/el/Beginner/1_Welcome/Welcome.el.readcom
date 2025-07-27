@@ -17718,7 +17718,7 @@ object ImageStoryItem: TImageStoryItem
       'el.readcom'
     AutoSize = False
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem4: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -17730,10 +17730,10 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/el.readcom'
+      'ry/master/Gallery/el/Beginner/Beginner.el.readcom'
     AutoSize = False
   end
-  object ImageStoryItem4: TImageStoryItem
+  object ImageStoryItem42: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -17743,7 +17743,6 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 121.037460327148400000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
       'ry/master/Gallery/el/Beginner/Beginner.el.readcom'

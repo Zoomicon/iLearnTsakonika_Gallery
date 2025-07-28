@@ -11286,8 +11286,8 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Colors' +
-      '.el.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Single' +
+      'Choice/Colors_SingleChoice_Green.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem3: TImageStoryItem
@@ -11303,7 +11303,7 @@ object ImageStoryItem: TImageStoryItem
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
       'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Numbe' +
-      'rs1-4.el.readcom'
+      'rs_1-4.el.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <

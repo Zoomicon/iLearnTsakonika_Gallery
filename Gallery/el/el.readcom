@@ -7529,4 +7529,20 @@ object ImageStoryItem: TImageStoryItem
       'ry/master/Gallery/el/Advanced/Advanced.el.readcom'
     AutoSize = False
   end
+  object ImageStoryItem: TImageStoryItem
+    Align = Scale
+    Cursor = crHandPoint
+    Locked = True
+    Position.X = 2244.564453125000000000
+    Position.Y = 1337.926147460938000000
+    Size.Width = 308.415527343750000000
+    Size.Height = 293.513305664062500000
+    Size.PlatformDefault = False
+    TabStop = False
+    Active = True
+    UrlAction = 
+      'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
+      'ry/master/Gallery/Default.readcom'
+    AutoSize = False
+  end
 end

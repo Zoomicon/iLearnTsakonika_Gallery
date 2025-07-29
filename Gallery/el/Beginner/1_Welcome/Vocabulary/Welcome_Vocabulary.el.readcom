@@ -11256,7 +11256,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/el.readcom'
+      'ry/master/Gallery/el/Beginner/Beginner.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem42: TImageStoryItem
@@ -11271,7 +11271,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/Beginner.el.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem2: TImageStoryItem
@@ -11286,8 +11286,8 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Single' +
-      'Choice/Colors_SingleChoice_Green.el.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Colors' +
+      '_Red_Yellow_Blue.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem3: TImageStoryItem
@@ -11321,6 +11321,7 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 630.794677734375000000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
       'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/Family' +
@@ -11330,6 +11331,7 @@ object ImageStoryItem: TImageStoryItem
       MultiResBitmap = <
         item
         end>
+      Enabled = False
     end
   end
   object ImageStoryItem6: TImageStoryItem

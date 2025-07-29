@@ -18434,7 +18434,7 @@ object ImageStoryItem: TImageStoryItem
     Tags = 'blue'
     AutoSize = False
   end
-  object ImageStoryItem8: TImageStoryItem
+  object ImageStoryItem82: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -18444,15 +18444,17 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 145.245239257812500000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
       'ry/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Colors' +
-      '_Green_Black_White.el.readcom'
+      '_Purple_Brown_Pink.el.readcom'
     AutoSize = False
     object TImage
       MultiResBitmap = <
         item
         end>
+      Enabled = False
     end
   end
   object geranieblue_47B8CA1F87204648B7CFDB0012CB57C6: TImageStoryItem

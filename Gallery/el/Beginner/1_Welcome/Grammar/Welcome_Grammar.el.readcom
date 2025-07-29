@@ -7376,7 +7376,7 @@ object ImageStoryItem: TImageStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/el.readcom'
+      'ry/master/Gallery/el/Beginner/Beginner.el.readcom'
     AutoSize = False
   end
   object ImageStoryItem42: TImageStoryItem
@@ -7389,12 +7389,13 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 121.037460327148400000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
-      'ry/master/Gallery/el/Beginner/Beginner.el.readcom'
+      'ry/master/Gallery/el/Beginner/1_Welcome/Welcome.el.readcom'
     AutoSize = False
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem2: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -7410,7 +7411,7 @@ object ImageStoryItem: TImageStoryItem
       'com'
     AutoSize = False
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem3: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -7431,7 +7432,7 @@ object ImageStoryItem: TImageStoryItem
         end>
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem5: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -7451,7 +7452,7 @@ object ImageStoryItem: TImageStoryItem
         end>
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem6: TImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
@@ -7461,7 +7462,6 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 591.527221679687500000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Galle' +
       'ry/master/Gallery/el/Beginner/1_Welcome/Grammar/Prepositions_Pla' +
@@ -7471,7 +7471,6 @@ object ImageStoryItem: TImageStoryItem
       MultiResBitmap = <
         item
         end>
-      Enabled = False
     end
   end
 end

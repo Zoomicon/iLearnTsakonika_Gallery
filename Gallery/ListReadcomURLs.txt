@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Galler
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/old/Welcome_Dialogue_Matching.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Grammar/Welcome_Grammar.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Welcome_Vocabulary.el.readcom
+https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Colors_Badge.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Colors_Green_Black_White.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Colors_Purple_Brown_Pink.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Colors_Red_Yellow_Blue.el.readcom
@@ -23,8 +24,12 @@ https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Galler
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Matching/Colors_Matching_Green_Black_White.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Matching/Colors_Matching_Progress.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/Matching/Colors_Matching_Red_Yellow_Blue.el.readcom
+https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Brown.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Green.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Orange.el.readcom
+https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Pink.el.readcom
+https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Progress.el.readcom
+https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Purple.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/Family.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/FamilyTree.el.readcom
 https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/FamilyTree.ERROR_LOADING_TO_SEE.el.readcom

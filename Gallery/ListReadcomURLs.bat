@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Set the base URL
-set "BASE_URL=https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/"
+set "BASE_URL=??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/"
 
 :: Get the current directory
 set "BASE_DIR=%CD%"

@@ -45,10 +45,16 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Matching/Numbers_Matching_Progress.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/old/Numbers.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Apples.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Beans.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Cauliflowers.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Cherries.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Cucumbers.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Eggplants.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Lemons.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Mandarins.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Pears.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Pencils.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Quinces.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/SingleChoice/Numbers_SingleChoice_Tomatoes.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places/Places_Church_Bell_Square.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places/Places_House_Yard_Coffee Shop.el.readcom

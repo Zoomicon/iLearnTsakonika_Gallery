@@ -26,6 +26,8 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Pink.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Progress.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Purple.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Cover.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Niceseeyou.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/Family.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/FamilyTree.ERROR.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/FamilyTree.ERROR_LOADING_TO_SEE.el.readcom
@@ -57,6 +59,7 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Numbers_30-1000000.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Numbers_5-8.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Numbers_9-12.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Numbers_Badge.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Matching/Numbers_Matching_1-4.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Matching/Numbers_Matching_13-16.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Numbers/Matching/Numbers_Matching_17-20.el.readcom

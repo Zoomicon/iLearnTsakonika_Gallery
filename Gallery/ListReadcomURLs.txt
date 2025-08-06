@@ -132,3 +132,5 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places/Matching/Places_Matching_House_Yard_Coffee.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places/Matching/Places_Matching_Village_Tree_Mountain.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/2_DailyActivities/DailyActivities.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/2_DailyActivities/Vocabulary/DailyActivities_Vocabulary.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/2_DailyActivities/Vocabulary/Verbs/Verbs_1.el.readcom

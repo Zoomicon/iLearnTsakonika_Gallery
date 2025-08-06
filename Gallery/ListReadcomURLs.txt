@@ -9,6 +9,10 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Welcome.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_1.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_10.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_11.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_12.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_13.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_2.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_3.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_4.el.readcom
@@ -16,7 +20,11 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_6.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_7.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_8.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_9.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_map.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Matching/Dialogue_Matching_1.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Matching/Dialogue_Matching_2.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Matching/Dialogue_Matching_3.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/old/Welcome_Dialogue.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/old/Welcome_Dialogue_Matching.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Grammar/Welcome_Grammar.el.readcom
@@ -37,9 +45,11 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Colors/SingleChoice/Colors_SingleChoice_Purple.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Age.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Agewe.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Badge.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Comefrom.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Cover.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Heis.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Mynameis.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Nice.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Niceseeyou.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/Expressions_Thanks.el.readcom
@@ -51,9 +61,12 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Comefromboy.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Howareyou.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Howold.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Howoldyou.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Mynameis.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Nicetoseeyou.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Progress2.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Thanks.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Expressions/SingleChoice/Expressions_SingleChoice_Theyare.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/Family.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/FamilyTree.ERROR.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Family/FamilyTree.ERROR_LOADING_TO_SEE.el.readcom
@@ -118,3 +131,4 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places/Matching/Places_Matching_Church_Bell_Square.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places/Matching/Places_Matching_House_Yard_Coffee.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Vocabulary/Places/Matching/Places_Matching_Village_Tree_Mountain.el.readcom
+??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/2_DailyActivities/DailyActivities.el.readcom

@@ -1,2 +1,2 @@
 You can use this content freely in the context of the opensource iLearnTsakonika App (http://github.com/Zoomicon/iLearnTsakonika_App).
-For other use please see respective source and attibution in METADATA.yaml at each subfolder and download content from original source.
+For other use Creative Commons Share-alike with Attribution license applies.

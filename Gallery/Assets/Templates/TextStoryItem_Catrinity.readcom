@@ -1,0 +1,13 @@
+object TextStoryItem3: TTextStoryItem
+  Align = Scale
+  Locked = True
+  Position.X = 230.889953613281300000
+  Position.Y = 376.983001708984400000
+  Size.Width = 476.803161621093800000
+  Size.Height = 278.601409912109400000
+  Size.PlatformDefault = False
+  TabStop = False
+  Text = #949#956#960#945#955#803#951#833#964#963#949#13#10#954#959#833#964#788#945
+  Font.Family = 'Catrinity'
+  Font.Size = 101.000000000000000000
+end

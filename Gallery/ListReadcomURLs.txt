@@ -9,7 +9,6 @@
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Advanced/1_Welcome/Welcome.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Advanced/1_Welcome/Dialogue/Welcome_Dialogue.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/Beginner.el.readcom
-??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/2Welcome.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Welcome.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue.el.readcom
 ??https://raw.githubusercontent.com/zoomicon/iLearnTsakonika_Gallery/master/Gallery/el/Beginner/1_Welcome/Dialogue/Welcome_Dialogue_1.el.readcom
